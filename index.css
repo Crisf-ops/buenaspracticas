@@ -1,0 +1,31 @@
+#container{
+    display: flex;
+    align-items: center;
+    width: 32%;
+    margin: 5rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    border-radius: 1rem;
+}
+
+.bbva{
+    background-color: rgb(196, 197, 255);
+}
+
+.ban-colombia{
+    background-color: rgb(227, 240, 116);
+}
+
+.davivienda{
+    background-color: rgb(245, 78, 78);
+}
+
+.error{
+    color: #fff;
+    background-color: darkred;
+}
+
+.error-escogido{
+    color: #000;
+    background-color: gold;
+}

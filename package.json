@@ -1,0 +1,14 @@
+{
+  "name": "buenaspracticas-tarea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Aredondo",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.1.0"
+  }
+}
